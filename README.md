@@ -6,7 +6,7 @@ Este é um projeto de um scanner de portas simples desenvolvido em Python. O obj
 
 # Como Usar
 
-- Certifique-se de ter o Python instalado em seu sistema. Você pode baixar o Python em https://www.python.org/downloads/.
+Certifique-se de ter o Python instalado em seu sistema. Você pode baixar o Python em `https://www.python.org/downloads/`.
 Clone ou faça o download deste repositório para o seu ambiente local.
 Abra um terminal ou prompt de comando e navegue até o diretório do projeto.
 Execute o seguinte comando para executar o script de varredura de portas:
