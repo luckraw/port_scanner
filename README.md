@@ -15,6 +15,6 @@ Execute o seguinte comando para executar o script de varredura de portas:
 python port_scanner.py
 ```
 
-- Será solicitado que você forneça o host que deseja escanear. Por exemplo, "google.com".
+Será solicitado que você forneça o host que deseja escanear. Por exemplo, "google.com".
 Em seguida, digite as portas que deseja escanear separadas por vírgula. Por exemplo, "80, 22".
 O script executará a varredura de portas no host especificado e exibirá os resultados na saída do terminal.
