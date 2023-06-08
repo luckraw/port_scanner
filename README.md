@@ -1,3 +1,5 @@
+# Sobre o projeto
+
 Este é um projeto de um scanner de portas simples desenvolvido em Python. O objetivo deste script é permitir a verificação de portas abertas em um determinado host.
 
 # Tecnologias Utilizadas
